@@ -23,7 +23,25 @@ Then i spent the WHILE trying to figure that out... but eventually i realized ch
 
 <img width="680" height="378" alt="image" src="https://github.com/user-attachments/assets/2c77fbcc-0bed-4643-8e5a-2f70387c2093" />
 
-11/24/25 4:30 
+11/24/25 5:20
+
+YAY I FINISHED
+
+This was a really fun refresher for making pcb's!!! i really like this lil fly and its honestly one of my favorite hardware projects even though its not a very impressive project. I spent way to long arranging and re-arranging the parts and trying to route the whole thing but it was a lot of fun.
+
+<img width="733" height="659" alt="image" src="https://github.com/user-attachments/assets/edab78f4-b7b7-410b-b083-06f75c39bf63" />
+
+
+11/25/25 10:20 am
+
+Oppsies i made it too big
+
+When i upload it to jlcpcb to try and find the cost not only did shipping magically get more expensive but some how the pcb was like 20 bucks to be assembled!!! I went back to EasyEDA and made the pcb way smaller though i t doesn't look nearly as good its way cheaper.
+
+<img width="809" height="611" alt="image" src="https://github.com/user-attachments/assets/e62f32f6-d585-4f04-bf66-7638137aefcb" />
+
+
+
 
 
 
